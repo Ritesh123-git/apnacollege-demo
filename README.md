@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is my first git repository 
-Ritesh Kumar Dwivedi
+This is my first git repository. 
+<br>
+Author- Ritesh Kumar Dwivedi
